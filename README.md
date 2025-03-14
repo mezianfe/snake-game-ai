@@ -20,7 +20,7 @@ This project implements a deep Q-learning (DQN) agent to play the classic Snake 
    ```
 2. Run the training script:
    ```sh
-   python snake_rl.py
+   python snake.py
    ```
 
 ## Training Process
